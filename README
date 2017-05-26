@@ -1,4 +1,4 @@
-1. word2vec.py  
+word2vec.py  
 
 Given a set of documents it trains a word2vec model on them and stores it.
 It uses gensim python library for traing the model
@@ -24,4 +24,4 @@ model = wordevec.load_model(path)
 python word2vec.py dirname
 
 
-2. tfidf matrix 
+
