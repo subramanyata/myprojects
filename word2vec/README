@@ -5,7 +5,7 @@ It uses gensim python library for traing the model
 
 
 # Training ther model 
-import wordevec
+import word2vec
 # dirname = directory containing all the files 
 
 # preprocess the data using preprocessing 
